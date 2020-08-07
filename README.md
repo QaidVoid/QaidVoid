@@ -1,2 +1,1 @@
-### Hi there 👋
-## Configuring Emacs environment.
+### Currently Configuring Emacs environment.
