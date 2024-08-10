@@ -1,0 +1,308 @@
+name = "Void"
+font = "JetBrains Mono, monospace"
+
+defs = """
+<radialGradient id="void-bg" cx="26%" cy="48%" r="95%">
+  <stop offset="0%" stop-color="{palette.sky}"/>
+  <stop offset="100%" stop-color="{palette.deep}"/>
+</radialGradient>
+<filter id="bloom" x="-70%" y="-70%" width="240%" height="240%">
+  <feGaussianBlur stdDeviation="2.4" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+"""
+
+[canvas]
+width = 940
+height = 470
+min_width = 740
+min_height = 420
+
+[vars]
+pad = 36
+cx = "{canvas.height * 0.515}"
+cy = "{canvas.height * 0.505}"
+# Three concentric layers: repositories at the core, the weekday rhythm
+# around them, then the year itself as one spoke per day.
+core_r = "{canvas.height * 0.118}"
+wr_in = "{canvas.height * 0.132}"
+wr_span = "{canvas.height * 0.050}"
+r_in = "{canvas.height * 0.196}"
+r_span = "{canvas.height * 0.166}"
+r_out = "{canvas.height * 0.362}"
+col = "{canvas.height * 0.515 + canvas.height * 0.362 + 44}"
+col_w = "{canvas.width - 36 - (canvas.height * 0.515 + canvas.height * 0.362 + 44)}"
+stat_y = "{canvas.height * 0.30}"
+stat_label_y = "{canvas.height * 0.352}"
+streak_y = "{canvas.height * 0.466}"
+bar_y = "{canvas.height * 0.532}"
+bar_h = "{canvas.height * 0.060}"
+key_y = "{canvas.height * 0.685}"
+key_step = "{canvas.height * 0.057}"
+
+[dark]
+background = "#07060e"
+foreground = "#e6e8f4"
+accent = "#9b8bff"
+
+[dark.palette]
+sky = "#1c1740"
+deep = "#07060e"
+muted = "#7c80a0"
+rule = "#2b2850"
+star = "#cdd0e6"
+week = "#4a4270"
+l0 = "#221f3d"
+l1 = "#4a3a96"
+l2 = "#6b52d4"
+l3 = "#8f74f0"
+l4 = "#b9a9ff"
+
+[light]
+background = "#ffffff"
+foreground = "#12131d"
+accent = "#5b45b8"
+
+[light.palette]
+sky = "#efecff"
+deep = "#ffffff"
+muted = "#636580"
+rule = "#e1dff0"
+star = "#c6c7db"
+week = "#c9c3e8"
+l0 = "#e9e7f5"
+l1 = "#c3b8ee"
+l2 = "#9a86e8"
+l3 = "#6f56d8"
+l4 = "#4630a8"
+
+[[layer]]
+mark = "rect"
+[layer.encode]
+x = 0
+y = 0
+width = "{canvas.width}"
+height = "{canvas.height}"
+fill = "url(#void-bg)"
+radius = 16
+
+[[layer]]
+mark = "circle"
+repeat = 110
+[layer.encode]
+x = "{hash('sx' + row.index) * canvas.width}"
+y = "{hash('sy' + row.index) * canvas.height}"
+r = "{0.4 + hash('sr' + row.index) * 1.2}"
+fill = "{palette.star}"
+opacity = "{0.08 + hash('so' + row.index) * 0.28}"
+
+# The year's total sits in the eye of the rings.
+[[layer]]
+mark = "circle"
+[layer.encode]
+x = "{vars.cx}"
+y = "{vars.cy}"
+r = "{vars.core_r + 4}"
+fill = "{palette.l0}"
+opacity = 0.5
+
+[[layer]]
+mark = "text"
+[layer.encode]
+x = "{vars.cx}"
+y = "{vars.cy - 2}"
+content = "{activity.total}"
+size = 23
+anchor = "middle"
+weight = "bold"
+fill = "{palette.foreground}"
+filter = "bloom"
+
+[[layer]]
+mark = "text"
+[layer.encode]
+x = "{vars.cx}"
+y = "{vars.cy + 19}"
+content = "this year"
+size = 7.5
+anchor = "middle"
+fill = "{palette.muted}"
+letter_spacing = "1"
+
+# The weekday rhythm, as seven sectors sized by that day's yearly total.
+[[layer]]
+data = "contributions.weekday"
+mark = "polygon"
+points = [
+  { x = "{vars.cx + cos((weekday / 7 * tau() - tau() / 4) + (((weekday + 0.92) / 7 * tau() - tau() / 4) - (weekday / 7 * tau() - tau() / 4)) * 0) * (vars.wr_in + vars.wr_span * (0.22 + 0.78 * total.norm))}", y = "{vars.cy + sin((weekday / 7 * tau() - tau() / 4) + (((weekday + 0.92) / 7 * tau() - tau() / 4) - (weekday / 7 * tau() - tau() / 4)) * 0) * (vars.wr_in + vars.wr_span * (0.22 + 0.78 * total.norm))}" },
+  { x = "{vars.cx + cos((weekday / 7 * tau() - tau() / 4) + (((weekday + 0.92) / 7 * tau() - tau() / 4) - (weekday / 7 * tau() - tau() / 4)) * 0.25) * (vars.wr_in + vars.wr_span * (0.22 + 0.78 * total.norm))}", y = "{vars.cy + sin((weekday / 7 * tau() - tau() / 4) + (((weekday + 0.92) / 7 * tau() - tau() / 4) - (weekday / 7 * tau() - tau() / 4)) * 0.25) * (vars.wr_in + vars.wr_span * (0.22 + 0.78 * total.norm))}" },
+  { x = "{vars.cx + cos((weekday / 7 * tau() - tau() / 4) + (((weekday + 0.92) / 7 * tau() - tau() / 4) - (weekday / 7 * tau() - tau() / 4)) * 0.5) * (vars.wr_in + vars.wr_span * (0.22 + 0.78 * total.norm))}", y = "{vars.cy + sin((weekday / 7 * tau() - tau() / 4) + (((weekday + 0.92) / 7 * tau() - tau() / 4) - (weekday / 7 * tau() - tau() / 4)) * 0.5) * (vars.wr_in + vars.wr_span * (0.22 + 0.78 * total.norm))}" },
+  { x = "{vars.cx + cos((weekday / 7 * tau() - tau() / 4) + (((weekday + 0.92) / 7 * tau() - tau() / 4) - (weekday / 7 * tau() - tau() / 4)) * 0.75) * (vars.wr_in + vars.wr_span * (0.22 + 0.78 * total.norm))}", y = "{vars.cy + sin((weekday / 7 * tau() - tau() / 4) + (((weekday + 0.92) / 7 * tau() - tau() / 4) - (weekday / 7 * tau() - tau() / 4)) * 0.75) * (vars.wr_in + vars.wr_span * (0.22 + 0.78 * total.norm))}" },
+  { x = "{vars.cx + cos((weekday / 7 * tau() - tau() / 4) + (((weekday + 0.92) / 7 * tau() - tau() / 4) - (weekday / 7 * tau() - tau() / 4)) * 1.0) * (vars.wr_in + vars.wr_span * (0.22 + 0.78 * total.norm))}", y = "{vars.cy + sin((weekday / 7 * tau() - tau() / 4) + (((weekday + 0.92) / 7 * tau() - tau() / 4) - (weekday / 7 * tau() - tau() / 4)) * 1.0) * (vars.wr_in + vars.wr_span * (0.22 + 0.78 * total.norm))}" },
+  { x = "{vars.cx + cos((weekday / 7 * tau() - tau() / 4) + (((weekday + 0.92) / 7 * tau() - tau() / 4) - (weekday / 7 * tau() - tau() / 4)) * 1.0) * vars.wr_in}", y = "{vars.cy + sin((weekday / 7 * tau() - tau() / 4) + (((weekday + 0.92) / 7 * tau() - tau() / 4) - (weekday / 7 * tau() - tau() / 4)) * 1.0) * vars.wr_in}" },
+  { x = "{vars.cx + cos((weekday / 7 * tau() - tau() / 4) + (((weekday + 0.92) / 7 * tau() - tau() / 4) - (weekday / 7 * tau() - tau() / 4)) * 0.75) * vars.wr_in}", y = "{vars.cy + sin((weekday / 7 * tau() - tau() / 4) + (((weekday + 0.92) / 7 * tau() - tau() / 4) - (weekday / 7 * tau() - tau() / 4)) * 0.75) * vars.wr_in}" },
+  { x = "{vars.cx + cos((weekday / 7 * tau() - tau() / 4) + (((weekday + 0.92) / 7 * tau() - tau() / 4) - (weekday / 7 * tau() - tau() / 4)) * 0.5) * vars.wr_in}", y = "{vars.cy + sin((weekday / 7 * tau() - tau() / 4) + (((weekday + 0.92) / 7 * tau() - tau() / 4) - (weekday / 7 * tau() - tau() / 4)) * 0.5) * vars.wr_in}" },
+  { x = "{vars.cx + cos((weekday / 7 * tau() - tau() / 4) + (((weekday + 0.92) / 7 * tau() - tau() / 4) - (weekday / 7 * tau() - tau() / 4)) * 0.25) * vars.wr_in}", y = "{vars.cy + sin((weekday / 7 * tau() - tau() / 4) + (((weekday + 0.92) / 7 * tau() - tau() / 4) - (weekday / 7 * tau() - tau() / 4)) * 0.25) * vars.wr_in}" },
+  { x = "{vars.cx + cos((weekday / 7 * tau() - tau() / 4) + (((weekday + 0.92) / 7 * tau() - tau() / 4) - (weekday / 7 * tau() - tau() / 4)) * 0) * vars.wr_in}", y = "{vars.cy + sin((weekday / 7 * tau() - tau() / 4) + (((weekday + 0.92) / 7 * tau() - tau() / 4) - (weekday / 7 * tau() - tau() / 4)) * 0) * vars.wr_in}" },
+]
+[layer.encode]
+fill = "{threshold(total.norm, palette.l1, palette.l2, palette.l3, palette.l4)}"
+opacity = 0.9
+
+[[layer]]
+data = "contributions.weekday"
+mark = "text"
+[layer.encode]
+x = "{vars.cx + cos((weekday + 0.46) / 7 * tau() - tau() / 4) * (vars.wr_in + vars.wr_span * 0.5)}"
+y = "{vars.cy + sin((weekday + 0.46) / 7 * tau() - tau() / 4) * (vars.wr_in + vars.wr_span * 0.5) + 2.5}"
+content = "{pick(weekday, 'S', 'M', 'T', 'W', 'T', 'F', 'S')}"
+size = 6.5
+anchor = "middle"
+fill = "{palette.deep}"
+opacity = 0.75
+
+# The year. One spoke per day, clockwise from the oldest.
+[[layer]]
+data = "contributions.daily"
+mark = "line"
+[layer.encode]
+x1 = "{vars.cx + cos(row.index / row.count * tau() - tau() / 4) * vars.r_in}"
+y1 = "{vars.cy + sin(row.index / row.count * tau() - tau() / 4) * vars.r_in}"
+x2 = "{vars.cx + cos(row.index / row.count * tau() - tau() / 4) * (vars.r_in + (count == 0 ? 3 : lerp(7, vars.r_span, count.rank)))}"
+y2 = "{vars.cy + sin(row.index / row.count * tau() - tau() / 4) * (vars.r_in + (count == 0 ? 3 : lerp(7, vars.r_span, count.rank)))}"
+stroke = "{count == 0 ? palette.l0 : threshold(count.rank, palette.l1, palette.l2, palette.l3, palette.l4)}"
+stroke_width = 2.1
+
+[[layer]]
+data = "contributions.daily"
+mark = "text"
+[layer.encode]
+x = "{vars.cx + cos(row.index / row.count * tau() - tau() / 4) * (vars.r_out + 19)}"
+y = "{vars.cy + sin(row.index / row.count * tau() - tau() / 4) * (vars.r_out + 19) + 3}"
+content = "{day == 1 ? month_name : ''}"
+size = 7
+anchor = "middle"
+fill = "{palette.muted}"
+
+[[layer]]
+data = "contributions.daily"
+mark = "circle"
+[layer.encode]
+x = "{vars.cx + cos(row.index / row.count * tau() - tau() / 4) * (vars.r_out + 7)}"
+y = "{vars.cy + sin(row.index / row.count * tau() - tau() / 4) * (vars.r_out + 7)}"
+r = "{row.index >= row.count - activity.current_streak ? 1.7 : 0}"
+fill = "{palette.accent}"
+
+[[layer]]
+data = "contributions.daily"
+mark = "circle"
+[layer.encode]
+x = "{vars.cx + cos(row.index / row.count * tau() - tau() / 4) * (vars.r_out + 7)}"
+y = "{vars.cy + sin(row.index / row.count * tau() - tau() / 4) * (vars.r_out + 7)}"
+r = "{date == activity.busiest_date ? 3.4 : 0}"
+fill = "{palette.foreground}"
+
+[[layer]]
+mark = "text"
+[layer.encode]
+x = "{vars.col}"
+y = "{canvas.height * 0.142}"
+content = "{options.title}"
+size = 27
+weight = "bold"
+fill = "{palette.foreground}"
+
+[[layer]]
+mark = "text"
+[layer.encode]
+x = "{vars.col}"
+y = "{canvas.height * 0.200}"
+content = "@{user.login} // the void takes shape"
+size = 10
+fill = "{palette.muted}"
+
+[[layer]]
+mark = "text"
+repeat = 3
+[layer.encode]
+x = "{vars.col + row.index * (vars.col_w / 3)}"
+y = "{vars.stat_y}"
+content = "{pick(row.index, totals.repos, totals.stars, totals.contributions)}"
+size = 20
+weight = "bold"
+fill = "{palette.foreground}"
+
+[[layer]]
+mark = "text"
+repeat = 3
+[layer.encode]
+x = "{vars.col + row.index * (vars.col_w / 3)}"
+y = "{vars.stat_label_y}"
+content = "{pick(row.index, 'repos', 'stars', 'contributions')}"
+size = 8
+fill = "{palette.muted}"
+letter_spacing = "1"
+
+[[layer]]
+mark = "line"
+[layer.encode]
+x1 = "{vars.col}"
+y1 = "{canvas.height * 0.408}"
+x2 = "{canvas.width - vars.pad}"
+y2 = "{canvas.height * 0.408}"
+stroke = "{palette.rule}"
+stroke_width = 1
+
+[[layer]]
+mark = "text"
+[layer.encode]
+x = "{vars.col}"
+y = "{vars.streak_y}"
+content = "{activity.current_streak} day streak // {activity.longest_streak} day best // peak {activity.busiest_count} on {activity.busiest_date}"
+size = 9
+fill = "{palette.accent}"
+
+[[layer]]
+data = "languages"
+mark = "rect"
+[layer.encode]
+x = "{vars.col + vars.col_w * percentage.before / percentage.sum}"
+y = "{vars.bar_y}"
+width = "{max(vars.col_w * percentage / percentage.sum - 1.5, 0.5)}"
+height = "{vars.bar_h}"
+fill = "{contrast(color, palette.deep, 3)}"
+radius = 2
+
+[[layer]]
+data = "languages"
+mark = "circle"
+limit = 8
+[layer.encode]
+x = "{vars.col + (row.index % 2) * (vars.col_w / 2) + 4}"
+y = "{vars.key_y + floor(row.index / 2) * vars.key_step - 3}"
+r = 3.5
+fill = "{contrast(color, palette.deep, 3)}"
+
+[[layer]]
+data = "languages"
+mark = "text"
+limit = 8
+[layer.encode]
+x = "{vars.col + (row.index % 2) * (vars.col_w / 2) + 13}"
+y = "{vars.key_y + floor(row.index / 2) * vars.key_step}"
+content = "{name} {round(percentage * 10) / 10}%"
+size = 8.5
+fill = "{palette.foreground}"
+opacity = 0.82
+
+[[layer]]
+mark = "text"
+[layer.encode]
+x = "{canvas.width - vars.pad}"
+y = "{canvas.height - 20}"
+content = "EXPECT_UNEXPECTED_BEHAVIOR();"
+size = 7
+anchor = "end"
+fill = "{palette.muted}"
+opacity = 0.55
+letter_spacing = "2"
