@@ -1,0 +1,59 @@
+name: ghpulse
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/ghpulse.yml
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: QaidVoid/ghpulse@main
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
+          theme: all
+          output-dir: output
+
+      - name: Publish SVGs to ghpulse-output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          # Stash the freshly generated SVGs.
+          mkdir -p /tmp/ghpulse-out
+          cp output/*.svg /tmp/ghpulse-out/
+
+          git config user.name "ghpulse[bot]"
+          git config user.email "ghpulse[bot]@users.noreply.github.com"
+
+          # Switch to the publish branch (orphan it on first run).
+          if git ls-remote --exit-code --heads origin ghpulse-output >/dev/null 2>&1; then
+            git fetch origin ghpulse-output
+            git checkout ghpulse-output
+            find . -maxdepth 1 -name '*.svg' -delete
+          else
+            git checkout --orphan ghpulse-output
+            git rm -rf . >/dev/null 2>&1 || true
+          fi
+
+          cp /tmp/ghpulse-out/*.svg .
+          git add ./*.svg
+
+          if git diff --cached --quiet; then
+            echo "no SVG changes — nothing to publish"
+            exit 0
+          fi
+
+          git commit -m "chore: refresh ghpulse stats"
+          git push origin ghpulse-output
