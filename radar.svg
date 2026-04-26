@@ -8,20 +8,20 @@
 <line x1="300" y1="300" x2="300" y2="60" stroke="#c9d1d9" stroke-width="0.3" opacity="0.3"/>
 <text x="300" y="44" fill="#3178c6" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">TypeScript</text>
 <line x1="300" y1="300" x2="469.7056274847714" y2="130.29437251522862" stroke="#c9d1d9" stroke-width="0.3" opacity="0.3"/>
-<text x="483.84776310850236" y="120.15223689149767" fill="#89e051" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">Shell</text>
+<text x="483.84776310850236" y="120.15223689149767" fill="#7e7eff" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">Nix</text>
 <line x1="300" y1="300" x2="540" y2="300" stroke="#c9d1d9" stroke-width="0.3" opacity="0.3"/>
-<text x="560" y="304" fill="#dea584" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">Rust</text>
+<text x="560" y="304" fill="#89e051" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">Shell</text>
 <line x1="300" y1="300" x2="469.7056274847714" y2="469.7056274847714" stroke="#c9d1d9" stroke-width="0.3" opacity="0.3"/>
-<text x="483.84776310850236" y="487.84776310850236" fill="#555555" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">C</text>
+<text x="483.84776310850236" y="487.84776310850236" fill="#dea584" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">Rust</text>
 <line x1="300" y1="300" x2="300" y2="540" stroke="#c9d1d9" stroke-width="0.3" opacity="0.3"/>
-<text x="300" y="564" fill="#663399" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">CSS</text>
+<text x="300" y="564" fill="#555555" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">C</text>
 <line x1="300" y1="300" x2="130.29437251522862" y2="469.7056274847714" stroke="#c9d1d9" stroke-width="0.3" opacity="0.3"/>
-<text x="116.15223689149767" y="487.84776310850236" fill="#f1e05a" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">JavaScript</text>
+<text x="116.15223689149767" y="487.84776310850236" fill="#663399" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">CSS</text>
 <line x1="300" y1="300" x2="60" y2="300.00000000000006" stroke="#c9d1d9" stroke-width="0.3" opacity="0.3"/>
-<text x="40" y="304.00000000000006" fill="#e34c26" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">HTML</text>
+<text x="40" y="304.00000000000006" fill="#f1e05a" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">JavaScript</text>
 <line x1="300" y1="300" x2="130.29437251522856" y2="130.29437251522862" stroke="#c9d1d9" stroke-width="0.3" opacity="0.3"/>
-<text x="116.15223689149761" y="120.15223689149767" fill="#ff3e00" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">Svelte</text>
-<polygon points="300,60.0 381.6724641518556,218.3 371.19640203960523,300.0 328.88245961637585,328.9 300,329.0 281.48052262382635,318.5 279.20434722285165,300.0 285.5772291060054,285.6" fill="#58a6ff" opacity="0.2"/>
-<polygon points="300,60.0 381.6724641518556,218.3 371.19640203960523,300.0 328.88245961637585,328.9 300,329.0 281.48052262382635,318.5 279.20434722285165,300.0 285.5772291060054,285.6" fill="none" stroke="#58a6ff" stroke-width="1.5"/>
+<text x="116.15223689149761" y="120.15223689149767" fill="#3572A5" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">Python</text>
+<polygon points="300,60.0 449.6668605343507,150.3 419.4242607104456,300.0 355.12571224638083,355.1 300,341.5 274.5497827057684,325.5 265.59615774456023,300.0 278.71866369990533,278.7" fill="#58a6ff" opacity="0.2"/>
+<polygon points="300,60.0 449.6668605343507,150.3 419.4242607104456,300.0 355.12571224638083,355.1 300,341.5 274.5497827057684,325.5 265.59615774456023,300.0 278.71866369990533,278.7" fill="none" stroke="#58a6ff" stroke-width="1.5"/>
 <text x="300" y="20" fill="#c9d1d9" font-size="14" font-family="JetBrains Mono, monospace" text-anchor="middle" font-weight="bold">Rabindra Dhakal</text>
 </svg>
