@@ -14,22 +14,22 @@
 <rect x="0" y="0" width="800" height="400" fill="url(#prism-bg)" rx="12"/>
 <rect x="0" y="196.5" width="197.5" height="7" fill="#ffffff" opacity="0.95" filter="url(#beam-glow)"/>
 <polygon points="189.0,200.0 282.5,115.0 282.5,285.0" fill="url(#prism-glass)" stroke="#ffffff" stroke-width="1.2" opacity="0.85"/>
-<polygon points="282.5,198.5 660.0,52.5 660.0,91.5 282.5,201.5" fill="#dea584" opacity="0.78" filter="url(#beam-glow)"/>
-<text x="788" y="71" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">Rust 54.9%</text>
-<polygon points="282.5,198.5 660.0,101.3 660.0,115.9 282.5,201.5" fill="#3178c6" opacity="0.78" filter="url(#beam-glow)"/>
-<text x="788" y="107.57142857142857" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">TypeScript 7.7%</text>
-<polygon points="282.5,198.5 660.0,137.9 660.0,152.3 282.5,201.5" fill="#ff3e00" opacity="0.78" filter="url(#beam-glow)"/>
-<text x="788" y="144.14285714285714" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">Svelte 7.5%</text>
-<polygon points="282.5,198.5 660.0,174.6 660.0,188.8 282.5,201.5" fill="#663399" opacity="0.78" filter="url(#beam-glow)"/>
-<text x="788" y="180.71428571428572" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">CSS 7.4%</text>
-<polygon points="282.5,198.5 660.0,212.1 660.0,224.4 282.5,201.5" fill="#f1e05a" opacity="0.78" filter="url(#beam-glow)"/>
-<text x="788" y="217.28571428571428" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">JavaScript 5.5%</text>
-<polygon points="282.5,198.5 660.0,249.1 660.0,260.6 282.5,201.5" fill="#89e051" opacity="0.78" filter="url(#beam-glow)"/>
-<text x="788" y="253.85714285714286" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">Shell 4.8%</text>
+<polygon points="282.5,198.5 660.0,53.0 660.0,91.0 282.5,201.5" fill="#dea584" opacity="0.78" filter="url(#beam-glow)"/>
+<text x="788" y="71" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">Rust 52.7%</text>
+<polygon points="282.5,198.5 660.0,100.3 660.0,116.8 282.5,201.5" fill="#3178c6" opacity="0.78" filter="url(#beam-glow)"/>
+<text x="788" y="107.57142857142857" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">TypeScript 9.9%</text>
+<polygon points="282.5,198.5 660.0,137.2 660.0,153.1 282.5,201.5" fill="#ff3e00" opacity="0.78" filter="url(#beam-glow)"/>
+<text x="788" y="144.14285714285714" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">Svelte 9.3%</text>
+<polygon points="282.5,198.5 660.0,174.8 660.0,188.6 282.5,201.5" fill="#663399" opacity="0.78" filter="url(#beam-glow)"/>
+<text x="788" y="180.71428571428572" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">CSS 6.9%</text>
+<polygon points="282.5,198.5 660.0,212.4 660.0,224.2 282.5,201.5" fill="#f1e05a" opacity="0.78" filter="url(#beam-glow)"/>
+<text x="788" y="217.28571428571428" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">JavaScript 5.1%</text>
+<polygon points="282.5,198.5 660.0,249.2 660.0,260.5 282.5,201.5" fill="#89e051" opacity="0.78" filter="url(#beam-glow)"/>
+<text x="788" y="253.85714285714286" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">Shell 4.5%</text>
 <polygon points="282.5,198.5 660.0,285.8 660.0,297.1 282.5,201.5" fill="#b07219" opacity="0.78" filter="url(#beam-glow)"/>
-<text x="788" y="290.42857142857144" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">Java 2.4%</text>
+<text x="788" y="290.42857142857144" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">Java 2.3%</text>
 <polygon points="282.5,198.5 660.0,322.4 660.0,333.6 282.5,201.5" fill="#A97BFF" opacity="0.78" filter="url(#beam-glow)"/>
-<text x="788" y="327" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">Kotlin 1.8%</text>
+<text x="788" y="327" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">Kotlin 1.6%</text>
 <text x="40" y="36" fill="#e6e1f0" font-size="16" font-family="JetBrains Mono, monospace" font-weight="bold">Rabindra Dhakal</text>
-<text x="40" y="54" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" opacity="0.6">106 repos · 2224 stars · 4757 contributions</text>
+<text x="40" y="54" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" opacity="0.6">106 repos · 2226 stars · 4930 contributions</text>
 </svg>
