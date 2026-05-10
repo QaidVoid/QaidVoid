@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
-<rect x="0" y="0" width="800" height="300" fill="#0d1117" rx="12"/>
-<line x1="40" y1="150" x2="760" y2="150" stroke="#c9d1d9" stroke-width="0.3" opacity="0.2"/>
+<rect x="0" y="0" width="800" height="300" fill="#f6f8fa" rx="12"/>
+<line x1="40" y1="150" x2="760" y2="150" stroke="#24292f" stroke-width="0.3" opacity="0.2"/>
 <rect x="48" y="40" width="24" height="110" fill="#dea584" opacity="0.8" rx="1"/>
 <rect x="48" y="150" width="24" height="66" fill="#dea584" opacity="0.4" rx="1"/>
 <rect x="88" y="40" width="24" height="110" fill="#ff3e00" opacity="0.8" rx="1"/>
@@ -38,6 +38,6 @@
 <rect x="688" y="150" width="24" height="66" fill="#bc8cff" opacity="0.4" rx="1"/>
 <rect x="728" y="107.53999999999999" width="24" height="42.46" fill="#bc8cff" opacity="0.8" rx="1"/>
 <rect x="728" y="150" width="24" height="25.476" fill="#bc8cff" opacity="0.4" rx="1"/>
-<text x="400" y="20" fill="#c9d1d9" font-size="12" font-family="JetBrains Mono, monospace" text-anchor="middle" font-weight="bold">Rabindra Dhakal // developer fingerprint</text>
-<text x="400" y="285" fill="#c9d1d9" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.5">107 repos | 2244 stars | 5462 contributions | 28 languages</text>
+<text x="400" y="20" fill="#24292f" font-size="12" font-family="JetBrains Mono, monospace" text-anchor="middle" font-weight="bold">Rabindra Dhakal // developer fingerprint</text>
+<text x="400" y="285" fill="#24292f" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.5">107 repos | 2244 stars | 5462 contributions | 28 languages</text>
 </svg>
