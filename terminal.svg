@@ -7,44 +7,44 @@
 <text x="20" y="57" fill="#33ff33" font-size="11" font-family="JetBrains Mono, monospace">LOGIN:    QaidVoid</text>
 <text x="20" y="75" fill="#33ff33" font-size="11" font-family="JetBrains Mono, monospace">REPOS:    110</text>
 <text x="20" y="93" fill="#ffb000" font-size="11" font-family="JetBrains Mono, monospace">STARS:    2255</text>
-<text x="20" y="111" fill="#33ff33" font-size="11" font-family="JetBrains Mono, monospace">CONTRIBS: 6251</text>
+<text x="20" y="111" fill="#33ff33" font-size="11" font-family="JetBrains Mono, monospace">CONTRIBS: 6324</text>
 <line x1="20" y1="129" x2="780" y2="129" stroke="#33ff33" stroke-width="0.5" opacity="0.3"/>
 <text x="20" y="147" fill="#ffb000" font-size="11" font-family="JetBrains Mono, monospace">> top languages</text>
 <text x="20" y="165" fill="#dea584" font-size="10" font-family="JetBrains Mono, monospace">        Rust</text>
-<rect x="120" y="157" width="379.9887001394344" height="10" fill="#dea584" opacity="0.7"/>
-<text x="504.9887001394344" y="165" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">63.3%</text>
+<rect x="120" y="157" width="382.6248286492802" height="10" fill="#dea584" opacity="0.7"/>
+<text x="507.6248286492802" y="165" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">63.8%</text>
 <text x="20" y="181.2" fill="#ff3e00" font-size="10" font-family="JetBrains Mono, monospace">      Svelte</text>
-<rect x="120" y="173.2" width="62.02956909013813" height="10" fill="#ff3e00" opacity="0.7"/>
-<text x="187.02956909013812" y="181.2" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">10.3%</text>
+<rect x="120" y="173.2" width="61.28634401199171" height="10" fill="#ff3e00" opacity="0.7"/>
+<text x="186.2863440119917" y="181.2" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">10.2%</text>
 <text x="20" y="197.39999999999998" fill="#3178c6" font-size="10" font-family="JetBrains Mono, monospace">  TypeScript</text>
-<rect x="120" y="189.39999999999998" width="45.65889494333314" height="10" fill="#3178c6" opacity="0.7"/>
-<text x="170.65889494333314" y="197.39999999999998" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">7.6%</text>
+<rect x="120" y="189.39999999999998" width="45.111819794172824" height="10" fill="#3178c6" opacity="0.7"/>
+<text x="170.11181979417282" y="197.39999999999998" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">7.5%</text>
 <text x="20" y="213.59999999999997" fill="#663399" font-size="10" font-family="JetBrains Mono, monospace">         CSS</text>
-<rect x="120" y="205.59999999999997" width="27.052264459513893" height="10" fill="#663399" opacity="0.7"/>
-<text x="152.05226445951388" y="213.59999999999997" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">4.5%</text>
+<rect x="120" y="205.59999999999997" width="26.728129991680618" height="10" fill="#663399" opacity="0.7"/>
+<text x="151.72812999168062" y="213.59999999999997" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">4.5%</text>
 <text x="20" y="229.79999999999995" fill="#f1e05a" font-size="10" font-family="JetBrains Mono, monospace">  JavaScript</text>
-<rect x="120" y="221.79999999999995" width="20.502484710916203" height="10" fill="#f1e05a" opacity="0.7"/>
-<text x="145.5024847109162" y="229.79999999999995" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">3.4%</text>
+<rect x="120" y="221.79999999999995" width="20.256828308252448" height="10" fill="#f1e05a" opacity="0.7"/>
+<text x="145.25682830825244" y="229.79999999999995" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">3.4%</text>
 <text x="20" y="245.99999999999994" fill="#89e051" font-size="10" font-family="JetBrains Mono, monospace">       Shell</text>
-<rect x="120" y="237.99999999999994" width="17.304081165394805" height="10" fill="#89e051" opacity="0.7"/>
-<text x="142.3040811653948" y="245.99999999999994" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">2.9%</text>
+<rect x="120" y="237.99999999999994" width="17.096747352423872" height="10" fill="#89e051" opacity="0.7"/>
+<text x="142.09674735242388" y="245.99999999999994" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">2.8%</text>
 <text x="20" y="262.19999999999993" fill="#b07219" font-size="10" font-family="JetBrains Mono, monospace">        Java</text>
-<rect x="120" y="254.19999999999993" width="8.870948300026463" height="10" fill="#b07219" opacity="0.7"/>
-<text x="133.87094830002647" y="262.19999999999993" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">1.5%</text>
+<rect x="120" y="254.19999999999993" width="8.764658487921865" height="10" fill="#b07219" opacity="0.7"/>
+<text x="133.76465848792188" y="262.19999999999993" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">1.5%</text>
 <text x="20" y="278.3999999999999" fill="#A97BFF" font-size="10" font-family="JetBrains Mono, monospace">      Kotlin</text>
-<rect x="120" y="270.3999999999999" width="6.387320629003138" height="10" fill="#A97BFF" opacity="0.7"/>
-<text x="131.38732062900314" y="278.3999999999999" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">1.1%</text>
+<rect x="120" y="270.3999999999999" width="6.31078911438406" height="10" fill="#A97BFF" opacity="0.7"/>
+<text x="131.31078911438405" y="278.3999999999999" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">1.1%</text>
 <text x="20" y="294.5999999999999" fill="#6e4a7e" font-size="10" font-family="JetBrains Mono, monospace">      Elixir</text>
-<rect x="120" y="286.5999999999999" width="6.236283984109393" height="10" fill="#6e4a7e" opacity="0.7"/>
-<text x="131.2362839841094" y="294.5999999999999" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">1.0%</text>
+<rect x="120" y="286.5999999999999" width="6.161562158383059" height="10" fill="#6e4a7e" opacity="0.7"/>
+<text x="131.16156215838305" y="294.5999999999999" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">1.0%</text>
 <text x="20" y="310.7999999999999" fill="#e34c26" font-size="10" font-family="JetBrains Mono, monospace">        HTML</text>
-<rect x="120" y="302.7999999999999" width="5.2016788179886735" height="10" fill="#e34c26" opacity="0.7"/>
-<text x="130.20167881798866" y="310.7999999999999" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">0.9%</text>
+<rect x="120" y="302.7999999999999" width="5.139353410885261" height="10" fill="#e34c26" opacity="0.7"/>
+<text x="130.13935341088526" y="310.7999999999999" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">0.9%</text>
 <text x="20" y="326.9999999999999" fill="#178600" font-size="10" font-family="JetBrains Mono, monospace">          C#</text>
-<rect x="120" y="318.9999999999999" width="3.304635325971292" height="10" fill="#178600" opacity="0.7"/>
-<text x="128.3046353259713" y="326.9999999999999" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">0.6%</text>
+<rect x="120" y="318.9999999999999" width="3.2650398897234383" height="10" fill="#178600" opacity="0.7"/>
+<text x="128.26503988972343" y="326.9999999999999" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">0.5%</text>
 <text x="20" y="343.1999999999999" fill="#9400ff" font-size="10" font-family="JetBrains Mono, monospace">     ASP.NET</text>
-<rect x="120" y="335.1999999999999" width="2.705467064667847" height="10" fill="#9400ff" opacity="0.7"/>
-<text x="127.70546706466784" y="343.1999999999999" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">0.5%</text>
+<rect x="120" y="335.1999999999999" width="2.6730507348423354" height="10" fill="#9400ff" opacity="0.7"/>
+<text x="127.67305073484233" y="343.1999999999999" fill="#33ff33" font-size="9" font-family="JetBrains Mono, monospace" opacity="0.6">0.4%</text>
 <rect x="20" y="367" width="8" height="12" fill="#33ff33" style="animation: blink 1s step-end infinite"/>
 </svg>
