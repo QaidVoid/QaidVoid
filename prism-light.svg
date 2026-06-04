@@ -19,7 +19,7 @@
 <polygon points="282.5,198.5 660.0,98.4 660.0,118.7 282.5,201.5" fill="#3178c6" opacity="0.78" filter="url(#beam-glow)"/>
 <text x="788" y="107.57142857142857" fill="#24292f" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">TypeScript 15.5%</text>
 <polygon points="282.5,198.5 660.0,137.7 660.0,152.6 282.5,201.5" fill="#ff3e00" opacity="0.78" filter="url(#beam-glow)"/>
-<text x="788" y="144.14285714285714" fill="#24292f" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">Svelte 8.5%</text>
+<text x="788" y="144.14285714285714" fill="#24292f" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">Svelte 8.4%</text>
 <polygon points="282.5,198.5 660.0,176.1 660.0,187.3 282.5,201.5" fill="#663399" opacity="0.78" filter="url(#beam-glow)"/>
 <text x="788" y="180.71428571428572" fill="#24292f" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">CSS 3.6%</text>
 <polygon points="282.5,198.5 660.0,212.7 660.0,223.9 282.5,201.5" fill="#f1e05a" opacity="0.78" filter="url(#beam-glow)"/>
@@ -31,5 +31,5 @@
 <polygon points="282.5,198.5 660.0,322.4 660.0,333.6 282.5,201.5" fill="#A97BFF" opacity="0.78" filter="url(#beam-glow)"/>
 <text x="788" y="327" fill="#24292f" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">Kotlin 0.9%</text>
 <text x="40" y="36" fill="#24292f" font-size="16" font-family="JetBrains Mono, monospace" font-weight="bold">Rabindra Dhakal</text>
-<text x="40" y="54" fill="#24292f" font-size="10" font-family="JetBrains Mono, monospace" opacity="0.6">112 repos · 2260 stars · 6904 contributions</text>
+<text x="40" y="54" fill="#24292f" font-size="10" font-family="JetBrains Mono, monospace" opacity="0.6">112 repos · 2261 stars · 6916 contributions</text>
 </svg>
