@@ -10,7 +10,7 @@
 <text x="300" y="56" fill="#24292f" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.6">61.6%</text>
 <line x1="300" y1="300" x2="469.7056274847714" y2="130.29437251522862" stroke="#24292f" stroke-width="0.3" opacity="0.3"/>
 <text x="483.84776310850236" y="120.15223689149767" fill="#3178c6" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">TypeScript</text>
-<text x="483.84776310850236" y="132.15223689149767" fill="#24292f" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.6">15.3%</text>
+<text x="483.84776310850236" y="132.15223689149767" fill="#24292f" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.6">15.2%</text>
 <line x1="300" y1="300" x2="540" y2="300" stroke="#24292f" stroke-width="0.3" opacity="0.3"/>
 <text x="560" y="304" fill="#ff3e00" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">Svelte</text>
 <text x="560" y="316" fill="#24292f" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.6">8.4%</text>
@@ -29,7 +29,7 @@
 <line x1="300" y1="300" x2="130.29437251522856" y2="130.29437251522862" stroke="#24292f" stroke-width="0.3" opacity="0.3"/>
 <text x="116.15223689149761" y="120.15223689149767" fill="#A97BFF" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">Kotlin</text>
 <text x="116.15223689149761" y="132.15223689149767" fill="#24292f" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.6">0.8%</text>
-<polygon points="300,60.0 384.48322552516885,215.5 388.6036633139382,300.0 340.8298400179393,340.8 300,350.3 267.07299917249424,332.9 266.934439570444,300.0 280.1602943403371,280.2" fill="#0969da" opacity="0.2"/>
-<polygon points="300,60.0 384.48322552516885,215.5 388.6036633139382,300.0 340.8298400179393,340.8 300,350.3 267.07299917249424,332.9 266.934439570444,300.0 280.1602943403371,280.2" fill="none" stroke="#0969da" stroke-width="1.5"/>
+<polygon points="300,60.0 384.37783787366965,215.6 388.4931356685644,300.0 340.7789072922552,340.8 300,350.2 267.10606148915343,332.9 266.9756868326965,300.0 280.1850431584949,280.2" fill="#0969da" opacity="0.2"/>
+<polygon points="300,60.0 384.37783787366965,215.6 388.4931356685644,300.0 340.7789072922552,340.8 300,350.2 267.10606148915343,332.9 266.9756868326965,300.0 280.1850431584949,280.2" fill="none" stroke="#0969da" stroke-width="1.5"/>
 <text x="300" y="20" fill="#24292f" font-size="14" font-family="JetBrains Mono, monospace" text-anchor="middle" font-weight="bold">Rabindra Dhakal</text>
 </svg>
