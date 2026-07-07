@@ -8,30 +8,30 @@
 <rect x="88" y="150" width="24" height="66" fill="#3178c6" opacity="0.4" rx="1"/>
 <rect x="128" y="40" width="24" height="110" fill="#ff3e00" opacity="0.8" rx="1"/>
 <rect x="128" y="150" width="24" height="66" fill="#ff3e00" opacity="0.4" rx="1"/>
-<rect x="168" y="77.85154963977276" width="24" height="72.14845036022724" fill="#dea584" opacity="0.8" rx="1"/>
-<rect x="168" y="150" width="24" height="43.289070216136345" fill="#dea584" opacity="0.4" rx="1"/>
-<rect x="208" y="135.23989406200158" width="24" height="14.760105937998423" fill="#3178c6" opacity="0.8" rx="1"/>
-<rect x="208" y="150" width="24" height="8.856063562799054" fill="#3178c6" opacity="0.4" rx="1"/>
-<rect x="248" y="141.83761118669966" width="24" height="8.162388813300344" fill="#ff3e00" opacity="0.8" rx="1"/>
-<rect x="248" y="150" width="24" height="4.897433287980206" fill="#ff3e00" opacity="0.4" rx="1"/>
-<rect x="288" y="146.60616172666084" width="24" height="3.3938382733391554" fill="#663399" opacity="0.8" rx="1"/>
-<rect x="288" y="150" width="24" height="2.036302964003493" fill="#663399" opacity="0.4" rx="1"/>
-<rect x="328" y="147.46554768976415" width="24" height="2.5344523102358507" fill="#89e051" opacity="0.8" rx="1"/>
-<rect x="328" y="150" width="24" height="1.5206713861415104" fill="#89e051" opacity="0.4" rx="1"/>
-<rect x="368" y="147.4750329997153" width="24" height="2.524967000284716" fill="#f1e05a" opacity="0.8" rx="1"/>
-<rect x="368" y="150" width="24" height="1.5149802001708295" fill="#f1e05a" opacity="0.4" rx="1"/>
-<rect x="408" y="148.76221804766698" width="24" height="1.2377819523330165" fill="#A97BFF" opacity="0.8" rx="1"/>
-<rect x="408" y="150" width="24" height="0.7426691713998098" fill="#A97BFF" opacity="0.4" rx="1"/>
-<rect x="448" y="148.8719444789482" width="24" height="1.128055521051796" fill="#b07219" opacity="0.8" rx="1"/>
-<rect x="448" y="150" width="24" height="0.6768333126310776" fill="#b07219" opacity="0.4" rx="1"/>
-<rect x="488" y="149.20697603669942" width="24" height="0.7930239633005759" fill="#6e4a7e" opacity="0.8" rx="1"/>
-<rect x="488" y="150" width="24" height="0.47581437798034554" fill="#6e4a7e" opacity="0.4" rx="1"/>
-<rect x="528" y="149.35349013653416" width="24" height="0.6465098634658262" fill="#e34c26" opacity="0.8" rx="1"/>
-<rect x="528" y="150" width="24" height="0.3879059180794957" fill="#e34c26" opacity="0.4" rx="1"/>
-<rect x="568" y="149.57977298497912" width="24" height="0.42022701502088533" fill="#178600" opacity="0.8" rx="1"/>
-<rect x="568" y="150" width="24" height="0.2521362090125312" fill="#178600" opacity="0.4" rx="1"/>
-<rect x="608" y="149.65596495931408" width="24" height="0.3440350406859273" fill="#9400ff" opacity="0.8" rx="1"/>
-<rect x="608" y="150" width="24" height="0.20642102441155635" fill="#9400ff" opacity="0.4" rx="1"/>
+<rect x="168" y="78.04354450371198" width="24" height="71.95645549628802" fill="#dea584" opacity="0.8" rx="1"/>
+<rect x="168" y="150" width="24" height="43.17387329777281" fill="#dea584" opacity="0.4" rx="1"/>
+<rect x="208" y="135.1824565234486" width="24" height="14.817543476551421" fill="#3178c6" opacity="0.8" rx="1"/>
+<rect x="208" y="150" width="24" height="8.890526085930853" fill="#3178c6" opacity="0.4" rx="1"/>
+<rect x="248" y="141.68007844838422" width="24" height="8.319921551615774" fill="#ff3e00" opacity="0.8" rx="1"/>
+<rect x="248" y="150" width="24" height="4.991952930969465" fill="#ff3e00" opacity="0.4" rx="1"/>
+<rect x="288" y="146.60261124293763" width="24" height="3.397388757062367" fill="#663399" opacity="0.8" rx="1"/>
+<rect x="288" y="150" width="24" height="2.03843325423742" fill="#663399" opacity="0.4" rx="1"/>
+<rect x="328" y="147.4722921426808" width="24" height="2.5277078573191947" fill="#89e051" opacity="0.8" rx="1"/>
+<rect x="328" y="150" width="24" height="1.5166247143915168" fill="#89e051" opacity="0.4" rx="1"/>
+<rect x="368" y="147.48081216730563" width="24" height="2.519187832694382" fill="#f1e05a" opacity="0.8" rx="1"/>
+<rect x="368" y="150" width="24" height="1.511512699616629" fill="#f1e05a" opacity="0.4" rx="1"/>
+<rect x="408" y="148.76551191990316" width="24" height="1.234488080096841" fill="#A97BFF" opacity="0.8" rx="1"/>
+<rect x="408" y="150" width="24" height="0.7406928480581045" fill="#A97BFF" opacity="0.4" rx="1"/>
+<rect x="448" y="148.8749463572311" width="24" height="1.12505364276891" fill="#b07219" opacity="0.8" rx="1"/>
+<rect x="448" y="150" width="24" height="0.6750321856613459" fill="#b07219" opacity="0.4" rx="1"/>
+<rect x="488" y="149.20908635961246" width="24" height="0.7909136403875507" fill="#6e4a7e" opacity="0.8" rx="1"/>
+<rect x="488" y="150" width="24" height="0.4745481842325304" fill="#6e4a7e" opacity="0.4" rx="1"/>
+<rect x="528" y="149.3519800455596" width="24" height="0.6480199544403968" fill="#e34c26" opacity="0.8" rx="1"/>
+<rect x="528" y="150" width="24" height="0.3888119726642381" fill="#e34c26" opacity="0.4" rx="1"/>
+<rect x="568" y="149.5808912547156" width="24" height="0.41910874528439485" fill="#178600" opacity="0.8" rx="1"/>
+<rect x="568" y="150" width="24" height="0.2514652471706369" fill="#178600" opacity="0.4" rx="1"/>
+<rect x="608" y="149.65688047393007" width="24" height="0.3431195260699233" fill="#9400ff" opacity="0.8" rx="1"/>
+<rect x="608" y="150" width="24" height="0.20587171564195397" fill="#9400ff" opacity="0.4" rx="1"/>
 <rect x="648" y="40" width="24" height="110" fill="#bc8cff" opacity="0.8" rx="1"/>
 <rect x="648" y="150" width="24" height="66" fill="#bc8cff" opacity="0.4" rx="1"/>
 <rect x="688" y="40" width="24" height="110" fill="#bc8cff" opacity="0.8" rx="1"/>
@@ -39,5 +39,5 @@
 <rect x="728" y="107.21000000000001" width="24" height="42.79" fill="#bc8cff" opacity="0.8" rx="1"/>
 <rect x="728" y="150" width="24" height="25.674" fill="#bc8cff" opacity="0.4" rx="1"/>
 <text x="400" y="20" fill="#c9d1d9" font-size="12" font-family="JetBrains Mono, monospace" text-anchor="middle" font-weight="bold">Rabindra Dhakal // developer fingerprint</text>
-<text x="400" y="285" fill="#c9d1d9" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.5">118 repos | 2285 stars | 7490 contributions | 31 languages</text>
+<text x="400" y="285" fill="#c9d1d9" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.5">118 repos | 2285 stars | 7530 contributions | 31 languages</text>
 </svg>

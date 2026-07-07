@@ -47,16 +47,16 @@
 <line x1="400" y1="248" x2="907.6923076923078" y2="400" stroke="#ff2bd6" stroke-width="0.7" opacity="0.55"/>
 <line x1="400" y1="248" x2="1000" y2="400" stroke="#ff2bd6" stroke-width="0.7" opacity="0.55"/>
 <text x="400" y="36" fill="#fef08a" font-size="18" font-family="JetBrains Mono, monospace" text-anchor="middle" font-weight="bold" filter="url(#sw-neon)" letter-spacing="3">RABINDRA DHAKAL</text>
-<text x="400" y="56" fill="#a8d8ff" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.85">118 repos // 2285 stars // 7490 contributions</text>
+<text x="400" y="56" fill="#a8d8ff" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.85">118 repos // 2285 stars // 7530 contributions</text>
 <rect x="73.75" y="140" width="40" height="108" fill="#dea584" opacity="0.92" filter="url(#sw-neon)" rx="2"/>
 <text x="93.75" y="134" fill="#f0a8e8" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.85">Rust</text>
-<text x="93.75" y="262" fill="#a8d8ff" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.75">65.6%</text>
-<rect x="161.25" y="199.15107745234124" width="40" height="48.84892254765876" fill="#3178c6" opacity="0.92" filter="url(#sw-neon)" rx="2"/>
-<text x="181.25" y="193.15107745234124" fill="#f0a8e8" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.85">TypeScript</text>
-<text x="181.25" y="262" fill="#a8d8ff" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.75">13.4%</text>
-<rect x="248.75" y="211.6738902318258" width="40" height="36.3261097681742" fill="#ff3e00" opacity="0.92" filter="url(#sw-neon)" rx="2"/>
-<text x="268.75" y="205.6738902318258" fill="#f0a8e8" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.85">Svelte</text>
-<text x="268.75" y="262" fill="#a8d8ff" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.75">7.4%</text>
+<text x="93.75" y="262" fill="#a8d8ff" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.75">65.4%</text>
+<rect x="161.25" y="198.9908715387889" width="40" height="49.009128461211105" fill="#3178c6" opacity="0.92" filter="url(#sw-neon)" rx="2"/>
+<text x="181.25" y="192.9908715387889" fill="#f0a8e8" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.85">TypeScript</text>
+<text x="181.25" y="262" fill="#a8d8ff" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.75">13.5%</text>
+<rect x="248.75" y="211.2761258842272" width="40" height="36.72387411577277" fill="#ff3e00" opacity="0.92" filter="url(#sw-neon)" rx="2"/>
+<text x="268.75" y="205.2761258842272" fill="#f0a8e8" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.85">Svelte</text>
+<text x="268.75" y="262" fill="#a8d8ff" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.75">7.6%</text>
 <rect x="511.25" y="226.4" width="40" height="21.6" fill="#f1e05a" opacity="0.92" filter="url(#sw-neon)" rx="2"/>
 <text x="531.25" y="220.4" fill="#f0a8e8" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.85">JavaScript</text>
 <text x="531.25" y="262" fill="#a8d8ff" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.75">2.3%</text>
