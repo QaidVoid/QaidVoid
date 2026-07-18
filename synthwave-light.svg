@@ -47,15 +47,15 @@
 <line x1="400" y1="248" x2="907.6923076923078" y2="400" stroke="#d63384" stroke-width="0.7" opacity="0.55"/>
 <line x1="400" y1="248" x2="1000" y2="400" stroke="#d63384" stroke-width="0.7" opacity="0.55"/>
 <text x="400" y="36" fill="#a04060" font-size="18" font-family="JetBrains Mono, monospace" text-anchor="middle" font-weight="bold" filter="url(#sw-neon)" letter-spacing="3">RABINDRA DHAKAL</text>
-<text x="400" y="56" fill="#5b1e6b" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.85">119 repos // 2310 stars // 7832 contributions</text>
+<text x="400" y="56" fill="#5b1e6b" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.85">119 repos // 2313 stars // 7834 contributions</text>
 <rect x="73.75" y="140" width="40" height="108" fill="#dea584" opacity="0.92" filter="url(#sw-neon)" rx="2"/>
 <text x="93.75" y="134" fill="#5b1e6b" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.85">Rust</text>
-<text x="93.75" y="262" fill="#7a3a8a" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.75">65.6%</text>
-<rect x="161.25" y="199.4357340921541" width="40" height="48.56426590784591" fill="#3178c6" opacity="0.92" filter="url(#sw-neon)" rx="2"/>
-<text x="181.25" y="193.4357340921541" fill="#5b1e6b" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.85">TypeScript</text>
+<text x="93.75" y="262" fill="#7a3a8a" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.75">65.7%</text>
+<rect x="161.25" y="199.46522124651744" width="40" height="48.534778753482556" fill="#3178c6" opacity="0.92" filter="url(#sw-neon)" rx="2"/>
+<text x="181.25" y="193.46522124651744" fill="#5b1e6b" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.85">TypeScript</text>
 <text x="181.25" y="262" fill="#7a3a8a" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.75">13.3%</text>
-<rect x="248.75" y="211.22433649194585" width="40" height="36.77566350805415" fill="#ff3e00" opacity="0.92" filter="url(#sw-neon)" rx="2"/>
-<text x="268.75" y="205.22433649194585" fill="#5b1e6b" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.85">Svelte</text>
+<rect x="248.75" y="211.24666586615558" width="40" height="36.753334133844426" fill="#ff3e00" opacity="0.92" filter="url(#sw-neon)" rx="2"/>
+<text x="268.75" y="205.24666586615558" fill="#5b1e6b" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.85">Svelte</text>
 <text x="268.75" y="262" fill="#7a3a8a" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.75">7.6%</text>
 <rect x="511.25" y="226.4" width="40" height="21.6" fill="#89e051" opacity="0.92" filter="url(#sw-neon)" rx="2"/>
 <text x="531.25" y="220.4" fill="#5b1e6b" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.85">Shell</text>
