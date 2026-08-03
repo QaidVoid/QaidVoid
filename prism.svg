@@ -15,9 +15,9 @@
 <rect x="0" y="196.5" width="197.5" height="7" fill="#ffffff" opacity="0.95" filter="url(#beam-glow)"/>
 <polygon points="189.0,200.0 282.5,115.0 282.5,285.0" fill="url(#prism-glass)" stroke="#ffffff" stroke-width="1.2" opacity="0.85"/>
 <polygon points="282.5,198.5 660.0,51.2 660.0,92.8 282.5,201.5" fill="#dea584" opacity="0.78" filter="url(#beam-glow)"/>
-<text x="788" y="71" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">Rust 65.5%</text>
-<polygon points="282.5,198.5 660.0,99.3 660.0,117.9 282.5,201.5" fill="#3178c6" opacity="0.78" filter="url(#beam-glow)"/>
-<text x="788" y="107.57142857142857" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">TypeScript 13.1%</text>
+<text x="788" y="71" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">Rust 65.6%</text>
+<polygon points="282.5,198.5 660.0,99.3 660.0,117.8 282.5,201.5" fill="#3178c6" opacity="0.78" filter="url(#beam-glow)"/>
+<text x="788" y="107.57142857142857" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">TypeScript 13.0%</text>
 <polygon points="282.5,198.5 660.0,138.1 660.0,152.2 282.5,201.5" fill="#ff3e00" opacity="0.78" filter="url(#beam-glow)"/>
 <text x="788" y="144.14285714285714" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">Svelte 7.6%</text>
 <polygon points="282.5,198.5 660.0,176.1 660.0,187.3 282.5,201.5" fill="#663399" opacity="0.78" filter="url(#beam-glow)"/>
@@ -31,5 +31,5 @@
 <polygon points="282.5,198.5 660.0,322.4 660.0,333.6 282.5,201.5" fill="#b07219" opacity="0.78" filter="url(#beam-glow)"/>
 <text x="788" y="327" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" opacity="0.9">Java 1.0%</text>
 <text x="40" y="36" fill="#e6e1f0" font-size="16" font-family="JetBrains Mono, monospace" font-weight="bold">Rabindra Dhakal</text>
-<text x="40" y="54" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" opacity="0.6">121 repos · 2546 stars · 7992 contributions</text>
+<text x="40" y="54" fill="#e6e1f0" font-size="10" font-family="JetBrains Mono, monospace" opacity="0.6">121 repos · 2547 stars · 8006 contributions</text>
 </svg>
