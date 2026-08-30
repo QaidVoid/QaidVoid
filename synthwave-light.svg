@@ -47,10 +47,10 @@
 <line x1="400" y1="248" x2="907.6923076923078" y2="400" stroke="#d63384" stroke-width="0.7" opacity="0.55"/>
 <line x1="400" y1="248" x2="1000" y2="400" stroke="#d63384" stroke-width="0.7" opacity="0.55"/>
 <text x="400" y="36" fill="#a04060" font-size="18" font-family="JetBrains Mono, monospace" text-anchor="middle" font-weight="bold" filter="url(#sw-neon)" letter-spacing="3">RABINDRA DHAKAL</text>
-<text x="400" y="56" fill="#5b1e6b" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.85">124 repos // 2636 stars // 8652 contributions</text>
+<text x="400" y="56" fill="#5b1e6b" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.85">124 repos // 2637 stars // 8696 contributions</text>
 <rect x="73.75" y="140" width="40" height="108" fill="#dea584" opacity="0.92" filter="url(#sw-neon)" rx="2"/>
 <text x="93.75" y="134" fill="#5b1e6b" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.85">Rust</text>
-<text x="93.75" y="262" fill="#7a3a8a" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.75">65.5%</text>
+<text x="93.75" y="262" fill="#7a3a8a" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.75">65.4%</text>
 <rect x="161.25" y="202.8578528392835" width="40" height="45.142147160716476" fill="#3178c6" opacity="0.92" filter="url(#sw-neon)" rx="2"/>
 <text x="181.25" y="196.8578528392835" fill="#5b1e6b" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.85">TypeScript</text>
 <text x="181.25" y="262" fill="#7a3a8a" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.75">11.4%</text>
