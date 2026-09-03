@@ -7,7 +7,7 @@
 <polygon points="300.0,60.0 469.7,130.3 540.0,300.0 469.7,469.7 300.0,540.0 130.3,469.7 60.0,300.0 130.3,130.3" fill="none" stroke="#c9d1d9" stroke-width="0.3" opacity="0.2"/>
 <line x1="300" y1="300" x2="300" y2="60" stroke="#c9d1d9" stroke-width="0.3" opacity="0.3"/>
 <text x="300" y="44" fill="#dea584" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">Rust</text>
-<text x="300" y="56" fill="#c9d1d9" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.6">65.5%</text>
+<text x="300" y="56" fill="#c9d1d9" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.6">65.7%</text>
 <line x1="300" y1="300" x2="469.7056274847714" y2="130.29437251522862" stroke="#c9d1d9" stroke-width="0.3" opacity="0.3"/>
 <text x="483.84776310850236" y="120.15223689149767" fill="#3178c6" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">TypeScript</text>
 <text x="483.84776310850236" y="132.15223689149767" fill="#c9d1d9" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.6">11.4%</text>
@@ -22,14 +22,14 @@
 <text x="300" y="576" fill="#c9d1d9" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.6">2.7%</text>
 <line x1="300" y1="300" x2="130.29437251522862" y2="469.7056274847714" stroke="#c9d1d9" stroke-width="0.3" opacity="0.3"/>
 <text x="116.15223689149767" y="487.84776310850236" fill="#f1e05a" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">JavaScript</text>
-<text x="116.15223689149767" y="499.84776310850236" fill="#c9d1d9" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.6">2.0%</text>
+<text x="116.15223689149767" y="499.84776310850236" fill="#c9d1d9" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.6">1.9%</text>
 <line x1="300" y1="300" x2="60" y2="300.00000000000006" stroke="#c9d1d9" stroke-width="0.3" opacity="0.3"/>
 <text x="40" y="304.00000000000006" fill="#555555" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">C</text>
 <text x="40" y="316.00000000000006" fill="#c9d1d9" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.6">1.7%</text>
 <line x1="300" y1="300" x2="130.29437251522856" y2="130.29437251522862" stroke="#c9d1d9" stroke-width="0.3" opacity="0.3"/>
 <text x="116.15223689149761" y="120.15223689149767" fill="#f34b7d" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">C++</text>
 <text x="116.15223689149761" y="132.15223689149767" fill="#c9d1d9" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.6">1.2%</text>
-<polygon points="300,60.0 370.91262665206364,229.1 376.4481909509004,300.0 337.5302482311094,337.5 300,348.6 270.65595615774345,329.3 261.03859799319304,300.0 277.2028187451308,277.2" fill="#58a6ff" opacity="0.2"/>
-<polygon points="300,60.0 370.91262665206364,229.1 376.4481909509004,300.0 337.5302482311094,337.5 300,348.6 270.65595615774345,329.3 261.03859799319304,300.0 277.2028187451308,277.2" fill="none" stroke="#58a6ff" stroke-width="1.5"/>
+<polygon points="300,60.0 370.56005516972664,229.4 376.0680971188416,300.0 337.4211032508488,337.4 300,348.3 270.80185222059816,329.2 261.16310471699677,300.0 277.3161643701289,277.3" fill="#58a6ff" opacity="0.2"/>
+<polygon points="300,60.0 370.56005516972664,229.4 376.0680971188416,300.0 337.4211032508488,337.4 300,348.3 270.80185222059816,329.2 261.16310471699677,300.0 277.3161643701289,277.3" fill="none" stroke="#58a6ff" stroke-width="1.5"/>
 <text x="300" y="20" fill="#c9d1d9" font-size="14" font-family="JetBrains Mono, monospace" text-anchor="middle" font-weight="bold">Rabindra Dhakal</text>
 </svg>
