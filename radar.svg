@@ -25,11 +25,11 @@
 <text x="116.15223689149767" y="499.84776310850236" fill="#c9d1d9" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.6">1.9%</text>
 <line x1="300" y1="300" x2="60" y2="300.00000000000006" stroke="#c9d1d9" stroke-width="0.3" opacity="0.3"/>
 <text x="40" y="304.00000000000006" fill="#555555" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">C</text>
-<text x="40" y="316.00000000000006" fill="#c9d1d9" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.6">1.7%</text>
+<text x="40" y="316.00000000000006" fill="#c9d1d9" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.6">1.8%</text>
 <line x1="300" y1="300" x2="130.29437251522856" y2="130.29437251522862" stroke="#c9d1d9" stroke-width="0.3" opacity="0.3"/>
 <text x="116.15223689149761" y="120.15223689149767" fill="#f34b7d" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle">C++</text>
 <text x="116.15223689149761" y="132.15223689149767" fill="#c9d1d9" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" opacity="0.6">1.2%</text>
-<polygon points="300,60.0 370.5423910247636,229.5 376.04905407966965,300.0 337.42199835518016,337.4 300,348.3 270.8091617431572,329.2 261.17282722283306,300.0 277.3218430867898,277.3" fill="#58a6ff" opacity="0.2"/>
-<polygon points="300,60.0 370.5423910247636,229.5 376.04905407966965,300.0 337.42199835518016,337.4 300,348.3 270.8091617431572,329.2 261.17282722283306,300.0 277.3218430867898,277.3" fill="none" stroke="#58a6ff" stroke-width="1.5"/>
+<polygon points="300,60.0 370.4598777278444,229.5 375.96009964973695,300.0 337.587704390153,337.6 300,348.3 270.84330620961794,329.2 260.64123858928156,300.0 277.3483696826107,277.3" fill="#58a6ff" opacity="0.2"/>
+<polygon points="300,60.0 370.4598777278444,229.5 375.96009964973695,300.0 337.587704390153,337.6 300,348.3 270.84330620961794,329.2 260.64123858928156,300.0 277.3483696826107,277.3" fill="none" stroke="#58a6ff" stroke-width="1.5"/>
 <text x="300" y="20" fill="#c9d1d9" font-size="14" font-family="JetBrains Mono, monospace" text-anchor="middle" font-weight="bold">Rabindra Dhakal</text>
 </svg>
