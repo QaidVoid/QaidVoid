@@ -17,9 +17,9 @@
 <rect x="0" y="0" width="800" height="400" fill="#0c0a18" rx="12"/>
 <rect x="0" y="0" width="800" height="400" rx="12" fill="url(#prism-bg)"/>
 <rect x="0" y="196.5" width="197.5" height="7" fill="#ffffff" opacity="0.95" filter="url(#beam-glow)"/>
-<polygon points="282.5,198.5 650,39.2455805944767 650,80.7544194055233 282.5,201.5" fill="#dea584" opacity="0.78" filter="url(#beam-glow)"/>
-<polygon points="282.5,198.5 650,97.51995663233637 650,113.90861479623504 282.5,201.5" fill="#3178c6" opacity="0.78" filter="url(#beam-glow)"/>
-<polygon points="282.5,198.5 650,145.09510249056277 650,157.76204036658007 282.5,201.5" fill="#ff3e00" opacity="0.78" filter="url(#beam-glow)"/>
+<polygon points="282.5,198.5 650,39.24446319874254 650,80.75553680125746 282.5,201.5" fill="#dea584" opacity="0.78" filter="url(#beam-glow)"/>
+<polygon points="282.5,198.5 650,97.52104671519321 650,113.90752471337821 282.5,201.5" fill="#3178c6" opacity="0.78" filter="url(#beam-glow)"/>
+<polygon points="282.5,198.5 650,145.09594502517965 650,157.7611978319632 282.5,201.5" fill="#ff3e00" opacity="0.78" filter="url(#beam-glow)"/>
 <polygon points="282.5,198.5 650,191.50796583955767 650,202.7777484461566 282.5,201.5" fill="#89e051" opacity="0.78" filter="url(#beam-glow)"/>
 <polygon points="282.5,198.5 650,237.22225155384336 650,248.4920341604423 282.5,201.5" fill="#663399" opacity="0.78" filter="url(#beam-glow)"/>
 <polygon points="282.5,198.5 650,282.9365372681291 650,294.206319874728 282.5,201.5" fill="#f1e05a" opacity="0.78" filter="url(#beam-glow)"/>
@@ -35,5 +35,5 @@
 <text x="788" y="341.2857142857143" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" fill="#5f5f5f" opacity="0.9">C 1.6%</text>
 <text x="788" y="387" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" fill="#f34b7d" opacity="0.9">C++ 1.1%</text>
 <text x="40" y="42.8" font-size="16" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#c9d1d9" font-weight="bold">Rabindra Dhakal</text>
-<text x="40" y="54" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#c9d1d9" opacity="0.6">129 repos | 2668 stars | 9145 all-time contributions</text>
+<text x="40" y="54" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#c9d1d9" opacity="0.6">129 repos | 2671 stars | 9151 all-time contributions</text>
 </svg>
