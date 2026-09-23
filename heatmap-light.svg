@@ -14,7 +14,6 @@
 <text x="671.9245283018868" y="58.4" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1f2328" opacity="0.55">Jul</text>
 <text x="734.7169811320755" y="58.4" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1f2328" opacity="0.55">Aug</text>
 <text x="813.2075471698113" y="58.4" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1f2328" opacity="0.55">Sep</text>
-<rect x="44" y="88.39622641509433" width="13.69811320754717" height="13.69811320754717" rx="2" fill="#ebedf0"/>
 <rect x="44" y="104.09433962264151" width="13.69811320754717" height="13.69811320754717" rx="2" fill="#ebedf0"/>
 <rect x="44" y="119.79245283018868" width="13.69811320754717" height="13.69811320754717" rx="2" fill="#ebedf0"/>
 <rect x="44" y="135.49056603773585" width="13.69811320754717" height="13.69811320754717" rx="2" fill="#ebedf0"/>
@@ -379,6 +378,7 @@
 <rect x="860.3018867924528" y="57" width="13.69811320754717" height="13.69811320754717" rx="2" fill="#ebedf0"/>
 <rect x="860.3018867924528" y="72.69811320754717" width="13.69811320754717" height="13.69811320754717" rx="2" fill="#ebedf0"/>
 <rect x="860.3018867924528" y="88.39622641509433" width="13.69811320754717" height="13.69811320754717" rx="2" fill="#ebedf0"/>
+<rect x="860.3018867924528" y="104.09433962264151" width="13.69811320754717" height="13.69811320754717" rx="2" fill="#ebedf0"/>
 <text x="36" y="90.07169811320753" font-size="7" font-family="JetBrains Mono, monospace" text-anchor="end" fill="#1f2328" opacity="0.5">Mon</text>
 <text x="36" y="121.4679245283019" font-size="7" font-family="JetBrains Mono, monospace" text-anchor="end" fill="#1f2328" opacity="0.5">Wed</text>
 <text x="36" y="152.86415094339623" font-size="7" font-family="JetBrains Mono, monospace" text-anchor="end" fill="#1f2328" opacity="0.5">Fri</text>
