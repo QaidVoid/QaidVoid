@@ -53,23 +53,23 @@
 <line x1='400' y1='248' x2='907.6923076923078' y2='400' stroke='#d63384' stroke-width='0.7' opacity='0.55'/>
 <line x1='400' y1='248' x2='1000' y2='400' stroke='#d63384' stroke-width='0.7' opacity='0.55'/>
 <text x="400" y="50.4" font-size="18" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#a04060" font-weight="bold" filter="url(#neon)" letter-spacing="3">RABINDRA DHAKAL</text>
-<text x="400" y="64" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#5b1e6b" opacity="0.85">132 repos // 2721 stars // 10417 all-time contributions</text>
+<text x="400" y="64" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#5b1e6b" opacity="0.85">133 repos // 2722 stars // 10437 all-time contributions</text>
 <rect x="73.75" y="140" width="40" height="108" rx="2" fill="#dea584" opacity="0.92" filter="url(#neon)"/>
-<rect x="161.25" y="177.50547231577696" width="40" height="70.49452768422304" rx="2" fill="#3178c6" opacity="0.92" filter="url(#neon)"/>
-<rect x="248.75" y="193.60472339212384" width="40" height="54.39527660787617" rx="2" fill="#ff3e00" opacity="0.92" filter="url(#neon)"/>
-<rect x="511.25" y="218.89645102535084" width="40" height="29.103548974649165" rx="2" fill="#f1e05a" opacity="0.92" filter="url(#neon)"/>
-<rect x="598.75" y="220.96022326608235" width="40" height="27.039776733917645" rx="2" fill="#555555" opacity="0.92" filter="url(#neon)"/>
-<rect x="686.25" y="225.49048753267837" width="40" height="22.509512467321635" rx="2" fill="#f34b7d" opacity="0.92" filter="url(#neon)"/>
+<rect x="161.25" y="177.7213076412529" width="40" height="70.27869235874708" rx="2" fill="#3178c6" opacity="0.92" filter="url(#neon)"/>
+<rect x="248.75" y="193.7712671312862" width="40" height="54.228732868713784" rx="2" fill="#ff3e00" opacity="0.92" filter="url(#neon)"/>
+<rect x="511.25" y="218.98555828192522" width="40" height="29.014441718074767" rx="2" fill="#f1e05a" opacity="0.92" filter="url(#neon)"/>
+<rect x="598.75" y="221.0180436342896" width="40" height="26.98195636571041" rx="2" fill="#555555" opacity="0.92" filter="url(#neon)"/>
+<rect x="686.25" y="225.55940561907866" width="40" height="22.440594380921333" rx="2" fill="#f34b7d" opacity="0.92" filter="url(#neon)"/>
 <text x="93.75" y="141.2" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#5b1e6b" opacity="0.85">Rust</text>
-<text x="181.25" y="178.70547231577694" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#5b1e6b" opacity="0.85">TypeScript</text>
-<text x="268.75" y="194.80472339212383" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#5b1e6b" opacity="0.85">Svelte</text>
-<text x="531.25" y="220.09645102535083" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#5b1e6b" opacity="0.85">JavaScript</text>
-<text x="618.75" y="222.16022326608234" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#5b1e6b" opacity="0.85">C</text>
-<text x="706.25" y="226.69048753267836" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#5b1e6b" opacity="0.85">C++</text>
-<text x="93.75" y="268.4" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#7a3a8a" opacity="0.75">73.8%</text>
+<text x="181.25" y="178.9213076412529" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#5b1e6b" opacity="0.85">TypeScript</text>
+<text x="268.75" y="194.9712671312862" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#5b1e6b" opacity="0.85">Svelte</text>
+<text x="531.25" y="220.1855582819252" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#5b1e6b" opacity="0.85">JavaScript</text>
+<text x="618.75" y="222.2180436342896" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#5b1e6b" opacity="0.85">C</text>
+<text x="706.25" y="226.75940561907865" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#5b1e6b" opacity="0.85">C++</text>
+<text x="93.75" y="268.4" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#7a3a8a" opacity="0.75">74%</text>
 <text x="181.25" y="268.4" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#7a3a8a" opacity="0.75">8.5%</text>
-<text x="268.75" y="268.4" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#7a3a8a" opacity="0.75">5.1%</text>
-<text x="531.25" y="268.4" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#7a3a8a" opacity="0.75">1.5%</text>
-<text x="618.75" y="268.4" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#7a3a8a" opacity="0.75">1.3%</text>
+<text x="268.75" y="268.4" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#7a3a8a" opacity="0.75">5%</text>
+<text x="531.25" y="268.4" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#7a3a8a" opacity="0.75">1.4%</text>
+<text x="618.75" y="268.4" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#7a3a8a" opacity="0.75">1.2%</text>
 <text x="706.25" y="268.4" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#7a3a8a" opacity="0.75">0.9%</text>
 </svg>
