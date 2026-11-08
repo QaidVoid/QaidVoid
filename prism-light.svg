@@ -17,8 +17,8 @@
 <rect x="0" y="0" width="800" height="400" fill="#e8eaf2" rx="12"/>
 <rect x="0" y="0" width="800" height="400" rx="12" fill="url(#prism-bg)"/>
 <rect x="0" y="196.5" width="197.5" height="7" fill="#1f2328" opacity="0.95" filter="url(#beam-glow)"/>
-<polygon points="282.5,198.5 650,37.59103060535098 650,82.40896939464902 282.5,201.5" fill="#dea584" opacity="0.78" filter="url(#beam-glow)"/>
-<polygon points="282.5,198.5 650,99.41873476895495 650,112.00983665961647 282.5,201.5" fill="#3178c6" opacity="0.78" filter="url(#beam-glow)"/>
+<polygon points="282.5,198.5 650,37.58402961653386 650,82.41597038346615 282.5,201.5" fill="#dea584" opacity="0.78" filter="url(#beam-glow)"/>
+<polygon points="282.5,198.5 650,99.42614139660404 650,112.00243003196738 282.5,201.5" fill="#3178c6" opacity="0.78" filter="url(#beam-glow)"/>
 <polygon points="282.5,198.5 650,145.79368012527195 650,157.06346273187089 282.5,201.5" fill="#ff3e00" opacity="0.78" filter="url(#beam-glow)"/>
 <polygon points="282.5,198.5 650,191.50796583955767 650,202.7777484461566 282.5,201.5" fill="#555555" opacity="0.78" filter="url(#beam-glow)"/>
 <polygon points="282.5,198.5 650,237.22225155384336 650,248.4920341604423 282.5,201.5" fill="#89e051" opacity="0.78" filter="url(#beam-glow)"/>
@@ -35,5 +35,5 @@
 <text x="788" y="341.2857142857143" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" fill="#e34c26" opacity="0.9">HTML 1.1%</text>
 <text x="788" y="387" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="end" fill="#96870d" opacity="0.9">JavaScript 1.1%</text>
 <text x="40" y="42.8" font-size="16" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1f2328" font-weight="bold">Rabindra Dhakal</text>
-<text x="40" y="54" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1f2328" opacity="0.6">142 repos | 2746 stars | 11840 all-time contributions</text>
+<text x="40" y="54" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1f2328" opacity="0.6">141 repos | 2747 stars | 11704 all-time contributions</text>
 </svg>
