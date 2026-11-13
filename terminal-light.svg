@@ -5,8 +5,8 @@
 <text x="20" y="37.60000000000001" font-size="12" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a">&gt; ghpulse --user QaidVoid --scene terminal</text>
 <text x="20" y="62.8" font-size="11" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a">REPOS:    142</text>
 <text x="20" y="80.8" font-size="11" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#a86500">STARS:    2753</text>
-<text x="20" y="98.8" font-size="11" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a">COMMITS:  10840</text>
-<text x="20" y="116.8" font-size="11" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a">ALL-TIME: 11782</text>
+<text x="20" y="98.8" font-size="11" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a">COMMITS:  10841</text>
+<text x="20" y="116.8" font-size="11" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a">ALL-TIME: 11783</text>
 <line x1="20" y1="124" x2="780" y2="124" stroke="#1a7a1a" stroke-width="0.5" opacity="0.3"/>
 <text x="20" y="154.8" font-size="11" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#a86500">&gt; top languages</text>
 <text x="20" y="188.36666666666667" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#cf7c4c">Rust</text>
