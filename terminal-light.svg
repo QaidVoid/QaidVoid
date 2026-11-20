@@ -4,17 +4,17 @@
 <rect x="2" y="2" width="796" height="396" fill="none" stroke="#1a7a1a" stroke-width="1" opacity="0.3"/>
 <text x="20" y="37.60000000000001" font-size="12" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a">&gt; ghpulse --user QaidVoid --scene terminal</text>
 <text x="20" y="62.8" font-size="11" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a">REPOS:    148</text>
-<text x="20" y="80.8" font-size="11" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#a86500">STARS:    2765</text>
-<text x="20" y="98.8" font-size="11" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a">COMMITS:  11155</text>
-<text x="20" y="116.8" font-size="11" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a">ALL-TIME: 12158</text>
+<text x="20" y="80.8" font-size="11" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#a86500">STARS:    2766</text>
+<text x="20" y="98.8" font-size="11" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a">COMMITS:  11175</text>
+<text x="20" y="116.8" font-size="11" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a">ALL-TIME: 12179</text>
 <line x1="20" y1="124" x2="780" y2="124" stroke="#1a7a1a" stroke-width="0.5" opacity="0.3"/>
 <text x="20" y="154.8" font-size="11" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#a86500">&gt; top languages</text>
 <text x="20" y="188.36666666666667" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#cf7c4c">Rust</text>
 <text x="20" y="206.03333333333333" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#3178c6">TypeScript</text>
 <text x="20" y="223.70000000000002" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#ff3e00">Svelte</text>
-<text x="20" y="241.36666666666667" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#52a41d">Shell</text>
-<text x="20" y="259.03333333333336" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#555555">C</text>
-<text x="20" y="276.70000000000005" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#009dc4">Go</text>
+<text x="20" y="241.36666666666667" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#009dc4">Go</text>
+<text x="20" y="259.03333333333336" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#52a41d">Shell</text>
+<text x="20" y="276.70000000000005" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#555555">C</text>
 <text x="20" y="294.3666666666667" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#663399">CSS</text>
 <text x="20" y="312.03333333333336" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#e34c26">HTML</text>
 <text x="20" y="329.70000000000005" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#9f8f0e">JavaScript</text>
@@ -22,27 +22,27 @@
 <text x="20" y="365.03333333333336" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#a676ff">Kotlin</text>
 <text x="20" y="382.70000000000005" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#b07219">Java</text>
 <rect x="208" y="174.18333333333334" width="496" height="7.950000000000001" rx="1" fill="#cf7c4c"/>
-<rect x="208" y="191.85" width="78.89316382011717" height="7.950000000000001" rx="1" fill="#3178c6"/>
-<rect x="208" y="209.51666666666668" width="66.4445071083077" height="7.950000000000001" rx="1" fill="#ff3e00"/>
-<rect x="208" y="227.18333333333334" width="58.11053943501633" height="7.950000000000001" rx="1" fill="#52a41d"/>
-<rect x="208" y="244.85000000000002" width="58.0357406079239" height="7.950000000000001" rx="1" fill="#555555"/>
-<rect x="208" y="262.5166666666667" width="57.736998891815475" height="7.950000000000001" rx="1" fill="#009dc4"/>
-<rect x="208" y="280.18333333333334" width="54.70124489088386" height="7.950000000000001" rx="1" fill="#663399"/>
-<rect x="208" y="297.85" width="53.01796400912705" height="7.950000000000001" rx="1" fill="#e34c26"/>
-<rect x="208" y="315.5166666666667" width="52.623192421694746" height="7.950000000000001" rx="1" fill="#9f8f0e"/>
-<rect x="208" y="333.18333333333334" width="50.60749425642864" height="7.950000000000001" rx="1" fill="#3572a5"/>
-<rect x="208" y="350.85" width="50.05313135305401" height="7.950000000000001" rx="1" fill="#a676ff"/>
+<rect x="208" y="191.85" width="78.89315853920859" height="7.950000000000001" rx="1" fill="#3178c6"/>
+<rect x="208" y="209.51666666666668" width="66.44450407161621" height="7.950000000000001" rx="1" fill="#ff3e00"/>
+<rect x="208" y="227.18333333333334" width="59.62987417015853" height="7.950000000000001" rx="1" fill="#009dc4"/>
+<rect x="208" y="244.85000000000002" width="58.110537900754586" height="7.950000000000001" rx="1" fill="#52a41d"/>
+<rect x="208" y="262.5166666666667" width="58.03573908714673" height="7.950000000000001" rx="1" fill="#555555"/>
+<rect x="208" y="280.18333333333334" width="54.75886481005066" height="7.950000000000001" rx="1" fill="#663399"/>
+<rect x="208" y="297.85" width="53.01796339294384" height="7.950000000000001" rx="1" fill="#e34c26"/>
+<rect x="208" y="315.5166666666667" width="52.655272549378715" height="7.950000000000001" rx="1" fill="#9f8f0e"/>
+<rect x="208" y="333.18333333333334" width="50.60749407479974" height="7.950000000000001" rx="1" fill="#3572a5"/>
+<rect x="208" y="350.85" width="50.053131271364464" height="7.950000000000001" rx="1" fill="#a676ff"/>
 <rect x="208" y="368.5166666666667" width="49.6" height="7.950000000000001" rx="1" fill="#b07219"/>
-<text x="712" y="187.56666666666666" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">79.3%</text>
-<text x="294.89316382011714" y="205.23333333333332" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">5.6%</text>
-<text x="282.4445071083077" y="222.9" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">3.4%</text>
-<text x="274.11053943501634" y="240.56666666666666" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">1.9%</text>
-<text x="274.0357406079239" y="258.23333333333335" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">1.9%</text>
-<text x="273.73699889181546" y="275.90000000000003" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">1.9%</text>
-<text x="270.70124489088386" y="293.56666666666666" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">1.3%</text>
-<text x="269.01796400912707" y="311.23333333333335" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">1%</text>
-<text x="268.62319242169474" y="328.90000000000003" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">0.9%</text>
-<text x="266.60749425642865" y="346.56666666666666" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">0.6%</text>
-<text x="266.053131353054" y="364.23333333333335" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">0.5%</text>
+<text x="712" y="187.56666666666666" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">79%</text>
+<text x="294.89315853920857" y="205.23333333333332" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">5.6%</text>
+<text x="282.4445040716162" y="222.9" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">3.4%</text>
+<text x="275.62987417015853" y="240.56666666666666" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">2.2%</text>
+<text x="274.1105379007546" y="258.23333333333335" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">1.9%</text>
+<text x="274.03573908714674" y="275.90000000000003" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">1.9%</text>
+<text x="270.7588648100507" y="293.56666666666666" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">1.3%</text>
+<text x="269.01796339294384" y="311.23333333333335" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">1%</text>
+<text x="268.6552725493787" y="328.90000000000003" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">1%</text>
+<text x="266.6074940747997" y="346.56666666666666" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">0.6%</text>
+<text x="266.05313127136446" y="364.23333333333335" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">0.5%</text>
 <text x="265.6" y="381.90000000000003" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">0.4%</text>
 </svg>
