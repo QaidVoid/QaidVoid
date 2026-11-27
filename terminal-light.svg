@@ -4,9 +4,9 @@
 <rect x="2" y="2" width="796" height="396" fill="none" stroke="#1a7a1a" stroke-width="1" opacity="0.3"/>
 <text x="20" y="37.60000000000001" font-size="12" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a">&gt; ghpulse --user QaidVoid --scene terminal</text>
 <text x="20" y="62.8" font-size="11" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a">REPOS:    149</text>
-<text x="20" y="80.8" font-size="11" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#a86500">STARS:    2773</text>
-<text x="20" y="98.8" font-size="11" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a">COMMITS:  11800</text>
-<text x="20" y="116.8" font-size="11" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a">ALL-TIME: 12809</text>
+<text x="20" y="80.8" font-size="11" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#a86500">STARS:    2774</text>
+<text x="20" y="98.8" font-size="11" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a">COMMITS:  11801</text>
+<text x="20" y="116.8" font-size="11" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a">ALL-TIME: 12810</text>
 <line x1="20" y1="124" x2="780" y2="124" stroke="#1a7a1a" stroke-width="0.5" opacity="0.3"/>
 <text x="20" y="154.8" font-size="11" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#a86500">&gt; top languages</text>
 <text x="20" y="188.36666666666667" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#cf7c4c">Rust</text>
@@ -25,19 +25,19 @@
 <rect x="208" y="191.85" width="76.24369708425537" height="7.950000000000001" rx="1" fill="#3178c6"/>
 <rect x="208" y="209.51666666666668" width="64.9209789042699" height="7.950000000000001" rx="1" fill="#ff3e00"/>
 <rect x="208" y="227.18333333333334" width="58.72270791233429" height="7.950000000000001" rx="1" fill="#009dc4"/>
-<rect x="208" y="244.85000000000002" width="57.68960174929294" height="7.950000000000001" rx="1" fill="#52a41d"/>
+<rect x="208" y="244.85000000000002" width="57.68196261680572" height="7.950000000000001" rx="1" fill="#52a41d"/>
 <rect x="208" y="262.5166666666667" width="57.40111137485817" height="7.950000000000001" rx="1" fill="#555555"/>
-<rect x="208" y="280.18333333333334" width="54.292263933014844" height="7.950000000000001" rx="1" fill="#663399"/>
+<rect x="208" y="280.18333333333334" width="54.29226393301485" height="7.950000000000001" rx="1" fill="#663399"/>
 <rect x="208" y="297.85" width="52.70882082465696" height="7.950000000000001" rx="1" fill="#e34c26"/>
 <rect x="208" y="315.5166666666667" width="52.37893407112549" height="7.950000000000001" rx="1" fill="#9f8f0e"/>
-<rect x="208" y="333.18333333333334" width="50.523776070040405" height="7.950000000000001" rx="1" fill="#3572a5"/>
+<rect x="208" y="333.18333333333334" width="50.52377607004041" height="7.950000000000001" rx="1" fill="#3572a5"/>
 <rect x="208" y="350.85" width="50.01214716799756" height="7.950000000000001" rx="1" fill="#a676ff"/>
 <rect x="208" y="368.5166666666667" width="49.6" height="7.950000000000001" rx="1" fill="#b07219"/>
 <text x="712" y="187.56666666666666" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">80.4%</text>
 <text x="292.24369708425536" y="205.23333333333332" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">5.2%</text>
 <text x="280.9209789042699" y="222.9" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">3.1%</text>
 <text x="274.7227079123343" y="240.56666666666666" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">2%</text>
-<text x="273.68960174929293" y="258.23333333333335" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">1.8%</text>
+<text x="273.6819626168057" y="258.23333333333335" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">1.8%</text>
 <text x="273.40111137485815" y="275.90000000000003" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">1.8%</text>
 <text x="270.29226393301485" y="293.56666666666666" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">1.2%</text>
 <text x="268.708820824657" y="311.23333333333335" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="start" fill="#1a7a1a" opacity="0.6">0.9%</text>
