@@ -53,21 +53,21 @@
 <line x1='400' y1='248' x2='907.6923076923078' y2='400' stroke='#ff2bd6' stroke-width='0.7' opacity='0.55'/>
 <line x1='400' y1='248' x2='1000' y2='400' stroke='#ff2bd6' stroke-width='0.7' opacity='0.55'/>
 <text x="400" y="50.4" font-size="18" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#fef08a" font-weight="bold" filter="url(#neon)" letter-spacing="3">RABINDRA DHAKAL</text>
-<text x="400" y="64" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#a8d8ff" opacity="0.85">149 repos // 2774 stars // 12810 all-time contributions</text>
+<text x="400" y="64" font-size="10" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#a8d8ff" opacity="0.85">149 repos // 2776 stars // 12843 all-time contributions</text>
 <rect x="73.75" y="140" width="40" height="108" rx="2" fill="#dea584" opacity="0.92" filter="url(#neon)"/>
-<rect x="161.25" y="193.1502536193061" width="40" height="54.84974638069388" rx="2" fill="#3178c6" opacity="0.92" filter="url(#neon)"/>
-<rect x="248.75" y="205.28229657246033" width="40" height="42.71770342753968" rx="2" fill="#ff3e00" opacity="0.92" filter="url(#neon)"/>
-<rect x="511.25" y="215.77167521773296" width="40" height="32.22832478226703" rx="2" fill="#555555" opacity="0.92" filter="url(#neon)"/>
-<rect x="598.75" y="221.28555181653215" width="40" height="26.714448183467862" rx="2" fill="#663399" opacity="0.92" filter="url(#neon)"/>
-<rect x="686.25" y="224.58789998928864" width="40" height="23.41210001071136" rx="2" fill="#e34c26" opacity="0.92" filter="url(#neon)"/>
+<rect x="161.25" y="193.31287195503532" width="40" height="54.68712804496467" rx="2" fill="#3178c6" opacity="0.92" filter="url(#neon)"/>
+<rect x="248.75" y="205.40894586978516" width="40" height="42.59105413021484" rx="2" fill="#ff3e00" opacity="0.92" filter="url(#neon)"/>
+<rect x="511.25" y="215.86722564203316" width="40" height="32.132774357966845" rx="2" fill="#555555" opacity="0.92" filter="url(#neon)"/>
+<rect x="598.75" y="221.36475471882758" width="40" height="26.63524528117242" rx="2" fill="#663399" opacity="0.92" filter="url(#neon)"/>
+<rect x="686.25" y="224.65731210130176" width="40" height="23.342687898698248" rx="2" fill="#e34c26" opacity="0.92" filter="url(#neon)"/>
 <text x="93.75" y="141.2" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#f0a8e8" opacity="0.85">Rust</text>
-<text x="181.25" y="194.3502536193061" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#f0a8e8" opacity="0.85">TypeScript</text>
-<text x="268.75" y="206.4822965724603" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#f0a8e8" opacity="0.85">Svelte</text>
-<text x="531.25" y="216.97167521773295" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#f0a8e8" opacity="0.85">C</text>
-<text x="618.75" y="222.48555181653214" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#f0a8e8" opacity="0.85">CSS</text>
-<text x="706.25" y="225.78789998928863" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#f0a8e8" opacity="0.85">HTML</text>
-<text x="93.75" y="268.4" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#a8d8ff" opacity="0.75">80.4%</text>
-<text x="181.25" y="268.4" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#a8d8ff" opacity="0.75">5.2%</text>
+<text x="181.25" y="194.5128719550353" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#f0a8e8" opacity="0.85">TypeScript</text>
+<text x="268.75" y="206.60894586978515" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#f0a8e8" opacity="0.85">Svelte</text>
+<text x="531.25" y="217.06722564203315" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#f0a8e8" opacity="0.85">C</text>
+<text x="618.75" y="222.56475471882757" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#f0a8e8" opacity="0.85">CSS</text>
+<text x="706.25" y="225.85731210130174" font-size="9" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#f0a8e8" opacity="0.85">HTML</text>
+<text x="93.75" y="268.4" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#a8d8ff" opacity="0.75">80.5%</text>
+<text x="181.25" y="268.4" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#a8d8ff" opacity="0.75">5.1%</text>
 <text x="268.75" y="268.4" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#a8d8ff" opacity="0.75">3.1%</text>
 <text x="531.25" y="268.4" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#a8d8ff" opacity="0.75">1.8%</text>
 <text x="618.75" y="268.4" font-size="8" font-family="JetBrains Mono, monospace" text-anchor="middle" fill="#a8d8ff" opacity="0.75">1.2%</text>
